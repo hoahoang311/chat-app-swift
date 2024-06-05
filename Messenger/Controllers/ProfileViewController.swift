@@ -1,19 +1,17 @@
 //
-//  ViewController.swift
+//  ProfileViewController.swift
 //  Messenger
 //
-//  Created by Ken Hoang on 2024-06-03.
+//  Created by Ken Hoang on 2024-06-04.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class ProfileViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+
         // Do any additional setup after loading the view.
     }
-
-
 }
-
